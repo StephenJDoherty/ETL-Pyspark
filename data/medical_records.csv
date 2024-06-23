@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,City,Disease,AdmissionDate,DischargeDate,StayDays,TreatmentCost
+1,John Smith,45,Male,New York,Diabetes,2023-01-10,2023-01-15,5,5000
+2,Jane Doe,32,Female,Los Angeles,Asthma,2023-02-01,2023-02-05,4,4000
+3,David Lee,58,Male,Chicago,Heart Disease,2023-03-05,2023-03-10,5,6000
+4,Mary Brown,28,Female,Houston,Cancer,2023-04-12,2023-04-18,6,7000
+5,Michael Jones,65,Male,Philadelphia,Stroke,2023-05-15,2023-05-20,5,5500
+6,Emily Davis,42,Female,Phoenix,Pneumonia,2023-06-20,2023-06-25,5,4500
+7,Robert Wilson,72,Male,San Antonio,Arthritis,2023-07-08,2023-07-13,5,5000
+8,Jennifer Garcia,38,Female,San Diego,Depression,2023-08-15,2023-08-20,5,4000
+9,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2023-09-01,2023-09-06,5,6500
+10,Ashley Williams,25,Female,San Jose,Anxiety,2023-10-10,2023-10-15,5,4000
+11,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,20
+12,Sarah Thomas,36,Female,San Francisco,Migraine,2023-12-12,2023-12-17,5,4500
+13,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2024-01-08,2024-01-13,5,6000
+14,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2024-02-15,2024-02-20,5,5000
+15,Matthew Wilson,62,Male,Fort Worth,Diabetes,2024-03-01,2024-03-06,5,5500
+16,Jessica Davis,34,Female,Charlotte,Asthma,2024-04-05,2024-04-10,5,4000
+17,Anthony Brown,56,Male,El Paso,Heart Disease,2024-05-10,2024-05-15,5,6500
+18,Melissa Garcia,26,Female,Memphis,Cancer,2024-06-12,2024-06-17,5,7000
+19,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2024-07-08,2024-07-13,5,6000
+20,Amanda Wilson,40,Female,Raleigh,Pneumonia,2024-08-15,2024-08-20,5,4500
+21,David Thomas,54,Male,New Orleans,Arthritis,2024-09-01,2024-09-06,5,5000
+22,Stephanie Garcia,32,Female,Louisville,Depression,2024-10-10,2024-1
+23,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2024-11-01,2024-11-06,5,6500
+24,Ashley Williams,25,Female,San Jose,Anxiety,2024-12-12,2024-12-17,5,4000
+25,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2025-01-08,2025-01-13,5,6000
+26,Sarah Thomas,36,Female,San Francisco,Migraine,2025-02-15,2025-02-20,5,4500
+27,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2025-03-01,2025-03-06,5,6000
+28,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2025-04-05,2025-04-10,5,5000
+29,Matthew Wilson,62,Male,Fort Worth,Diabetes,2025-05-10,2025-05-15,5,5500
+30,Jessica Davis,34,Female,Charlotte,Asthma,2025-06-12,2025-06-17,5,4000
+31,Anthony Brown,56,Male,El Paso,Heart Disease,2025-07-08,2025-07-13,5,6500
+32,Melissa Garcia,26,Female,Memphis,Cancer,2025-08-15,2025-08-20,5,7000
+33,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2025-09-01,2025-09-06,5,6000
+34,Amanda Wilson,40,Female,Raleigh,Pneumonia,2025-10-10,2025-10-15,5,4500
+35,David Thomas,54,Male,New Orleans,Arthritis,2025-11-01,2025-11-06,5,5000
+36,Stephanie Garcia,32,Female,Louisville,Depression,2025-12-12,2025-12-17,5,4000
+37,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2026-01-08,2026-01-13,5,6500
+38,Ashley Williams,25,Female,San Jose,Anxiety,2026-02-15,2026-02-20,5,4000
+39,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2026-03-01,2026-03-06,5,6000
+40,Sarah Thomas,36,Female,San Francisco,Migraine,2026-04-05,2026-04-10,5,4500
+41,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2026-05-10,2026-05-15,5,6000
+42,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2026-06-12,2026-06-17,5,5000
+43,Matthew Wilson,62,Male,Fort Worth,Diabetes,2026-07-08,2026-07-13,5,5500
+44,Jessica Davis,34,Female,Charlotte,Asthma,2026-08-15,2026-08-20,5,4000
+45,Anthony Brown,56,Male,El Paso,Heart Disease,2026-09-01,2026-09-06,5,6500
+46,Melissa Garcia,26,Female,Memphis,Cancer,2026-10-10,2026-10-15,5,7000
+47,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2026-11-01,2026-11-06,5,6000
+48,Amanda Wilson,40,Female,Raleigh,Pneumonia,2026-12-12,2026-12-17,5,4500
+49,David Thomas,54,Male,New Orleans,Arthritis,2027-01-08,2027-01-13,5,5000
+50,Stephanie Garcia,32,Female,Louisville,Depression,2027-02-15,2027-02-20,5,4000
+51,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2027-03-01,2027-03-06,5,6500
+52,Ashley Williams,25,Female,San Jose,Anxiety,2027-04-05,2027-04-10,5,4000
+53,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2027-05-10,2027-05-15,5,6000
+54,Sarah Thomas,36,Female,San Francisco,Migraine,2027-06-12,2027-06-17,5,4500
+55,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2027-07-08,2027-07-13,5,6000
+56,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2027-08-15,2027-08-20,5,5000
+57,Matthew Wilson,62,Male,Fort Worth,Diabetes,2027-09-01,2027-09-06,5,5500
+58,Jessica Davis,34,Female,Charlotte,Asthma,2027-10-10,2027-10-15,5,4000
+59,Anthony Brown,56,Male,El Paso,Heart Disease,2027-11-01,2027-11-06,5,6500
+60,Melissa Garcia,26,Female,Memphis,Cancer,2027-12-12,2027-12-17,5,7000
+61,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2028-01-08,2028-01-13,5,6000
+62,Amanda Wilson,40,Female,Raleigh,Pneumonia,2028-02-15,2028-02-20,5,4500
+63,David Thomas,54,Male,New Orleans,Arthritis,2028-03-01,2028-03-06,5,5000
+64,Stephanie Garcia,32,Female,Louisville,Depression,2028-04-05,2028-04-10,5,4000
+65,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2028-05-10,2028-05-15,5,6500
+66,Ashley Williams,25,Female,San Jose,Anxiety,2028-06-12,2028-06-17,5,4000
+67,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2028-07-08,2028-07-13,5,6000
+68,Sarah Thomas,36,Female,San Francisco,Migraine,2028-08-15,2028-08-20,5,4500
+69,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2028-09-01,2028-09-06,5,6000
+70,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2028-10-10,2028-10-15,5,5000
+71,Matthew Wilson,62,Male,Fort Worth,Diabetes,2028-11-01,2028-11-06,5,5500
+72,Jessica Davis,34,Female,Charlotte,Asthma,2028-12-12,2028-12-17,5,4000
+73,Anthony Brown,56,Male,El Paso,Heart Disease,2029-01-08,2029-01-13,5,6500
+74,Melissa Garcia,26,Female,Memphis,Cancer,2029-02-15,2029-02-20,5,7000
+75,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2029-03-01,2029-03-06,5,6000
+76,Amanda Wilson,40,Female,Raleigh,Pneumonia,2029-04-05,2029-04-10,5,4500
+77,David Thomas,54,Male,New Orleans,Arthritis,2029-05-10,2029-05-15,5,5000
+78,Stephanie Garcia,32,Female,Louisville,Depression,2029-06-12,2029-06-17,5,4000
+79,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2029-07-08,2029-07-13,5,6500
+80,Ashley Williams,25,Female,San Jose,Anxiety,2029-08-15,2029-08-20,5,4000
+81,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2029-09-01,2029-09-06,5,6000
+82,Sarah Thomas,36,Female,San Francisco,Migraine,2029-10-10,2029-10-15,5,4500
+83,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2029-11-01,2029-11-06,5,6000
+84,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2029-12-12,2029-12-17,5,5000
+85,Matthew Wilson,62,Male,Fort Worth,Diabetes,2030-01-08,2030-01-13,5,5500
+86,Jessica Davis,34,Female,Charlotte,Asthma,2030-02-15,2030-02-20,5,4000
+87,Anthony Brown,56,Male,El Paso,Heart Disease,2030-03-01,2030-03-06,5,6500
+88,Melissa Garcia,26,Female,Memphis,Cancer,2030-04-05,2030-04-10,5,7000
+89,Joseph Rodriguez,70,Male,Oklahoma City,Stroke,2030-05-10,2030-05-15,5,6000
+90,Amanda Wilson,40,Female,Raleigh,Pneumonia,2030-06-12,2030-06-17,5,4500
+91,David Thomas,54,Male,New Orleans,Arthritis,2030-07-08,2030-07-13,5,5000
+92,Stephanie Garcia,32,Female,Louisville,Depression,2030-08-15,2030-08-20,5,4000
+93,Christopher Rodriguez,55,Male,Dallas,Kidney Failure,2030-09-01,2030-09-06,5,6500
+94,Ashley Williams,25,Female,San Jose,Anxiety,2030-10-10,2030-10-15,5,4000
+95,Daniel Miller,68,Male,Jacksonville,Alzheimer's Disease,2030-11-01,2030-11-06,5,6000
+96,Sarah Thomas,36,Female,San Francisco,Migraine,2030-12-12,2030-12-17,5,4500
+97,William Garcia,52,Male,Indianapolis,Parkinson's Disease,2031-01-08,2031-01-13,5,6000
+98,Elizabeth Rodriguez,48,Female,Columbus,Obesity,2031-02-15,2031-02-20,5,5000
+99,Matthew Wilson,62,Male,Fort Worth,Diabetes,2031-03-01,2031-03-06,5,5500
+100,Jessica Davis,34,Female,Orlando,Heart Disease,2029-01-08,2029-01-13,5,6500
